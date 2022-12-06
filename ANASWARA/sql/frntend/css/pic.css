@@ -1,0 +1,33 @@
+body{
+    background-color:blueviolet;
+}
+
+
+.div{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    float:right;
+    width:10%;
+}
+/* #divs{
+    float: right;
+    width:10%;
+}
+#divv{
+    float: left;
+    width:20%;
+}
+#divvv{
+    float: left;
+    width:75%;
+} */
+.apple{
+    margin-left: 30px;
+    margin-right:30px;
+    width: 50px;
+    float:right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

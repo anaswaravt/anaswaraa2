@@ -1,0 +1,31 @@
+/* body{
+     background-image:url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg) ; */
+
+ /* }  */ */
+table,th,td{
+    border-style: dotted;
+    border-collapse: collapse;
+
+}  
+table{
+    height: 50px;
+    text-align: center;
+    vertical-align:center;
+}
+/* p{
+    text-align: center;
+    color: blue;
+    border-style: groove;
+    border-color: black;
+    border-width: 1px;
+}
+#color{color: rgb(41, 120, 58);
+} */
+/* .set{
+    color: brown;
+    text-align: right;
+    border-style: dashed;
+    border-color: blueviolet;
+    border-width: 2.5px;
+     */
+/* } */

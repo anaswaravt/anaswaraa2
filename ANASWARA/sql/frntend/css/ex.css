@@ -1,0 +1,16 @@
+body{
+   background-color: brown;
+}
+#head{
+    text-align: center;
+    text-decoration-line: overline;
+
+}
+.img{
+    max-width: fit-content;
+    height: auto;
+}
+h1{ 
+    background-color: aqua;
+    text-transform:capitalize;
+}

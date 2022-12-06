@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,200&family=Reem+Kufi+Ink&display=swap');
+body{
+    background-color: lightgreen;
+}
+h2{
+    text-decoration-line: underline;
+    text-decoration-color: yellowgreen ;
+    text-decoration-style:wavy;
+    font-family: 'Reem Kufi Ink', sans-serif;
+    text-shadow:2px 2px 2px blue;
+}
+
+.imgs{
+    vertical-align: baseline;
+}
+p{
+
+   
+    word-spacing: 10px;
+    letter-spacing: -2px;
+}
+.text{
+    font-family: 'Reem Kufi Ink', sans-serif;
+     word-spacing:25px;
+     letter-spacing:2px;
+     text-transform: uppercase;
+     text-shadow:2px 2px 2px blue;
+}

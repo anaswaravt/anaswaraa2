@@ -1,0 +1,47 @@
+body{
+    background-color: aqua;
+    height: 100px;
+    margin: auto;
+
+}
+body .form{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+body .form form .body {
+    background-color: white;
+    margin: 10%;
+    height: 150vh;
+    width: 75vh;
+    border: 1px dashed black;
+    border-radius: 20px;
+    display: block;
+}
+body .form form .body .add{
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 50px;
+    margin-bottom: 5%;
+}
+body .form form .body .add .input{
+    margin: 0 0 0 20%;
+    align-items: center;
+}
+body .form form .body .add .input input{
+    width: 50vh;
+    height: 5vh;
+    margin-bottom: 20px;
+
+}
+
+body .form form .body .add .input textarea{
+    width: 50vh;
+    height: 35vh;
+}
+
+body .form form .body .but input{
+    background-color: blue;
+    color: white;
+    margin-left: 70%;
+}

@@ -1,0 +1,114 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Pacifico&display=swap');
+body{
+    background-color: white;
+    height: 100%;
+    margin: auto;
+}
+body #outer #inner #imgs{
+    float:left;
+    padding:20px;
+    margin-top: 1px;
+    margin-left: 300px;
+}
+body #outer #inner #imgs img{
+    height: 86vh;
+    width: 45vh;
+    padding: 10px;
+}
+body #outer #inner #box1{
+    float: right;
+    padding:10px;
+    margin-top: 7vh;
+    margin-right: 350px;
+    border: .5px solid rgb(150, 147, 147);
+    width: 48vh;  
+    background-color: white; 
+    height: 60vh; 
+}
+body #outer #inner #box1 h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+body #outer #inner #box1 input{   
+    width:45vh;
+    height: 35px;    
+}
+body #outer #inner #box1 .input1{
+    padding: 5px;
+    
+}
+body #outer #inner #box1 #input2{
+    text-align: center;
+    margin-top: 5px;
+     
+}
+body #outer #inner #box1 #input2 input{
+    background-color:skyblue;
+    color: white;
+    border: none; 
+    width:46vh;
+    border-radius: 5px;
+}
+body #outer #inner #box1 #footer #divider{
+    margin-left: 15px;
+    margin-right:15px;
+    width:43vh;
+    text-align: center;
+    margin-top: 10px;
+}
+body #outer #inner #box1 #footer #divider hr{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+body #outer #inner #box1 #footer #divider #left{
+    float:left;
+}
+body #outer #inner #box1 #footer #divider #right{
+    float:right;
+}
+body #outer #inner #box1 #footer img{
+    height: 15px;
+    width:15px;
+}
+body #outer #inner #box1 p{
+    text-align: center;
+    margin-top: 1vh;   
+}
+body #outer #inner #box1 p a{
+    text-decoration: none;
+}
+body #outer #inner #box2{
+    float: right;
+    padding:10px;
+    margin-right: 350px;
+    width: 48vh; 
+    height: 30px; 
+    background-color: white;
+    margin-top: 5px; 
+    border: .5px solid rgb(150, 147, 147);
+}
+body #outer #inner #box2 p{
+    text-align: center;
+    padding: 2px;
+    margin-top: 2px;
+}
+body #outer #inner #box2 p a{
+    text-decoration: none;
+}
+body #outer #inner #box3{
+    float: right;
+    margin-right: 380px;
+}
+body #outer #inner #box3 p{
+    text-align: center;
+}
+body #outer #inner #box3 img{
+    height: 6vh;
+    width: 20vh;
+}

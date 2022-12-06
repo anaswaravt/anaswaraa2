@@ -1,0 +1,24 @@
+body{
+    background-color:yellowgreen;
+}
+p{
+    display:block;
+}
+#fix{
+    position:static;
+    top:0px;
+    left: 30px;
+    bottom: 0px;
+    width: 300px;
+    background-color: blueviolet;
+    border: 3px dotted red
+    
+}
+#color{
+    background-color: brown;
+    display:block;
+    position:sticky;
+    top: auto;
+    right: 300px;
+    width: 200px;
+}

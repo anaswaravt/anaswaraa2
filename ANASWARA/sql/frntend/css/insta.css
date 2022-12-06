@@ -1,0 +1,122 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+#insta{
+    font-family: 'Pacifico', cursive;
+    text-align:center;
+    font-size:50px;
+    font-weight: lighter;
+}
+#template{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    float:left;
+    width:50%;
+}
+#divs{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    float:left;
+    width: 25%;
+}
+#divv{
+    width: 300px;
+    height: 250px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+  display:flex;
+    justify-content:center;
+    align-items:center;
+    float:right;
+    width: 25%;
+}
+.divvv{
+    text-align: center;
+}
+#divvvv{
+   width: 300px;
+    height: 200px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+  display:flex;
+    justify-content:center;
+    align-items:center;
+    float:right;
+    width: 25%;
+}
+
+
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+
+      
+h4{
+    text-align: center;
+    box-sizing: border-box;
+    background-color:rgb(9, 149, 196);
+}
+
+
+.divider {
+    margin-left:30px;
+    margin: right 30px;
+    width:37vh;
+    text-align: center;
+}
+.divider hr{
+        margin-left:auto;
+        margin-right:auto;
+        width:40%;
+}
+.left{
+    float: left;
+}
+.right{
+    float:right;
+}
+#divvvv{
+    width: 200px;
+    height: 20px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+  display:flex;
+    justify-content:center;
+    align-items:center;
+    float:right;
+    width: 25%;
+}
+#app{
+    width: 200px;
+    height: 20px;
+  border: 0px solid black;
+  padding: 50px;
+  margin: 20px;
+  display:flex;
+    justify-content:center;
+    align-items:center;
+    float:right;
+    width: 25%;
+}
+#imgs{
+    display: inline;
+}
+#image{
+    margin-left:80px;
+    margin-right:80px;
+    width:100vh;
+    float:right;
+    display:flex;
+    justify-content:left;
+    align-items: center;
+
+}
